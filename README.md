@@ -2,7 +2,7 @@
 
 ## Overview
 
-Cognitive AI aims to move beyond traditional artificial intelligence models by directly mimicking human cognitive processes. Our approach integrates EEG (Electroencephalography) signals with text-based inputs to guide decision-making, enabling the model to function more like a human brain rather than simply generating responses based on predefined patterns.
+While AI has made great strides in replicating human behavior, it still lacks the internal thought processes that drive decision-making and problem-solving. This project proposes an approach where AI mimics human thinking by learning from observed outcomes rather than attempting to replicate neural processes. By integrating text, voice, multimodal data, and EEG signals, we aim to train AI systems to recognize patterns in human decision-making. This method could enable AI to develop more human-like reasoning and problem-solving abilities, bridging the gap between behavior replication and true cognitive emulation.
 
 ## Key Features
 
