@@ -19,7 +19,7 @@ Cognitive AI aims to move beyond traditional artificial intelligence models by d
 - **Validation & Testing**: Establishing metrics to confirm thought mimicry effectiveness.
 - **Generalization**: Balancing individual cognitive differences while maintaining a universal framework.
 
-## Sctual implementaion , testing & Funding
+## Actual implementaion , testing & Funding
 
 We believe that this research holds significant potential in revolutionizing AI and human-computer interactions. However, to advance this project further, we require funding to:
 
