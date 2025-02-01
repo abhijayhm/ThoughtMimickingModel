@@ -1,4 +1,4 @@
-# Why fake it when you can mimic it ? (Intelligence)
+# Why Fake It When You Can Mimic It? (Intelligence)
 
 ## Overview
 
