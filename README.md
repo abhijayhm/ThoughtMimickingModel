@@ -32,5 +32,11 @@ If you are interested in funding or collaborating on this groundbreaking researc
 
 ## Contact
 
-For funding, research collaboration, or inquiries, please contact us at: [Your Contact Information]
+For funding, research collaboration, or inquiries, please contact us at: 
+Abhijay Metekar :- 
+email : abhijaymetekar@gmail.com
+phn no. : +91 9172091485
 
+Bhushan Anokar :- 
+email : bhushananokar72@gmail.com
+phn no. : +91 7588470501
